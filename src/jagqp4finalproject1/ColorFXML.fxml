@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="800.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jagqp4finalproject1.ColorController">
+   <children>
+      <Button layoutX="567.0" layoutY="587.0" mnemonicParsing="false" onAction="#handleSwitch" text="Submit" />
+      <ColorPicker fx:id="colorPicker" layoutX="537.0" layoutY="83.0" />
+      <Slider fx:id="opacityPicker" layoutX="558.0" layoutY="453.0" />
+      <Label layoutX="423.0" layoutY="88.0" text="Color" />
+      <Label layoutX="449.0" layoutY="451.0" text="Opacity" />
+      <Button layoutX="743.0" layoutY="83.0" mnemonicParsing="false" onAction="#showData" text="Confirm Color Choice" />
+      <Label fx:id="redLabel" layoutX="427.0" layoutY="177.0" text="Red" />
+      <Label fx:id="greenLabel" layoutX="420.0" layoutY="256.0" text="Green" />
+      <Label fx:id="blueLabel" layoutX="426.0" layoutY="356.0" text="Blue" />
+   </children>
+</AnchorPane>
