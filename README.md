@@ -14,6 +14,7 @@ Instructions:
 ..* If you don't like your new image just upload it again or open a new image and repeat the process. 
 ..* My favorite images I've gotten have come when I pick a color that's similar to the dominant color in the image. 
 ..* The most bizzare results I've gotten are when I run the same image throught the color picker multiple times and pick vastly different colors
-     
+2. Another item
+⋅⋅* Unordered sub-list.      
      
 This application was created by Jordan Gunter. The final version was completed on December 9 2016.  
