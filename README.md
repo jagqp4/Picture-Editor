@@ -1,5 +1,5 @@
 # Picture-Editor
-Instructions:
+##Instructions:
 1. On the top menu bar click "File" then click "Open". A File browser will open. Select an image file saved on your computer in the format of "jpg", "jpeg", or "PNG". 
     * When you select your file a copy of the image will be loaded into this application.
     * If you choose an image which is larger than the screen a scrollbar will appear so you can view the entire image.   
@@ -7,6 +7,7 @@ Instructions:
 3. Next you will be taken to a new window where you can decide how you want to modify the image. 
     * At the top you will see a color picker. Click on this icon and a drop down list of colors will be presented. 
     * At the bottom you will see a "Custom color" option. Clicking on this will allow you to fully tailor the color values. 
+    * __Important: Make sure to adjust the opacity slider. Far left is 0 and far right is 100.
 4. Once you have decided on a color press the "Confirm Color" button. The exact RGB values of your selected color will be displayed below. 
 5. When you're finished click the "Submit" button at the bottom of the screen to return.
 6. In the bottom left corner of the screen you will see the RGB values that you selected. Press the "Apply Changes" button and your uploaded image will be transformed. 
