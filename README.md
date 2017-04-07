@@ -1,5 +1,6 @@
 # Picture-Editor
-##Instructions:
+
+## Instructions:
 1. On the top menu bar click "File" then click "Open". A File browser will open. Select an image file saved on your computer in the format of "jpg", "jpeg", or "PNG". 
     * When you select your file a copy of the image will be loaded into this application.
     * If you choose an image which is larger than the screen a scrollbar will appear so you can view the entire image.   
